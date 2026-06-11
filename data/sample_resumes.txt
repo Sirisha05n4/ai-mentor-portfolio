@@ -1,0 +1,35 @@
+Ravi Kumar
+Email: ravi.kumar@example.com
+Phone: +91 98765 43210
+Education:
+Degree: B.Tech CSE
+Institution: Aditya University
+Year: 2026
+Skills: Python, Django, SQL, Git, HTML, CSS
+Experience: 1 year as Software Intern
+Projects:
+- E-commerce Platform: Built using Django and PostgreSQL
+---
+Sneha Reddy
+Email: sneha.reddy@example.com
+Education:
+Degree: B.Tech CSE
+Institution: Aditya University
+Year: 2026
+Skills: Java, Spring Boot, MySQL, REST APIs, Docker, JavaScript
+Experience: 6 months as Backend Developer Intern
+Projects:
+- Library Management System: Created REST APIs using Spring Boot
+---
+Arun Pillai
+Email: arun.pillai@example.com
+Phone: +91 87654 32109
+Education:
+Degree: B.Tech CSE
+Institution: Aditya University
+Year: 2026
+Skills: Python, React, Node.js, Express, MongoDB, AWS, Docker, Kubernetes, Linux
+Experience: 1 year as Full Stack Intern
+Projects:
+- Portfolio Website: React and Node.js
+- Chat Application: Socket.io and Express

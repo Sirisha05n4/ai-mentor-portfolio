@@ -1,0 +1,5 @@
+Tool,Task 1 (Summarise),Task 2 (Code),Task 3 (Reason),My Verdict
+ChatGPT,4,4,4,All-rounder. Best default choice for general tasks.
+Claude,5,4,5,Best for thorough writing and careful reasoning. Slower.
+Gemini,4,3,3,Good for quick factual queries. Weaker at code constraints.
+Perplexity,4,3,2,Best when I need cited sources. Weakest for pure reasoning.
