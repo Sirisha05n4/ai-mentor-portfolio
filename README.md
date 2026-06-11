@@ -59,3 +59,12 @@ Below is the comparison matrix evaluating ChatGPT, Claude, Gemini, and Perplexit
 - Ravi Kumar — 6 skills, 1.0 years exp (Success)
 - Sneha Reddy — 6 skills, 0.5 years exp (Success)
 - Arun Pillai — 9 skills, 1.0 years exp (Success)
+- ## Day 4 — Productivity sprint
+
+**Company:** Accenture
+**Time:** 43 minutes (Timeboxed)
+
+### Edit notes (3 lines)
+1. Gamma hallucinated a "9.0 CGPA mandatory cutoff" on Slide 5. Cross-checked with brief and changed to "6.5 CGPA / 65%".
+2. Slide 4 listed Advanced Rust as a core requirement; replaced with Java/Python based on recent fresher JDs.
+3. Slide 1 — Customized generic AI title to reference Accenture's specific 2026 hiring cycle.
